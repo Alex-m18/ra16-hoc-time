@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import moment from "moment";
 import "moment/locale/ru";
+import "./css/index.css";
 
 moment.locale("ru");
 
